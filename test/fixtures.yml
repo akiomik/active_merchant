@@ -144,6 +144,9 @@ exact:
   login: "A00427-01"
   password: testus
 
+fastpay:
+  login: 'replace_me'
+
 # Working credentials, no need to replace
 fat_zebra:
   username: TEST
